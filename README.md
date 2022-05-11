@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @ChaeleaRennie
-- 🌱 I’m a full stack web developer
+- 💻 I’m a full stack web developer
 - 💞️ I’m looking to collaborate
+- ⚡ My passion is turning sparks into lightning
 - 📫 How to reach me: Twitter: @ChaeleaRennie
 
 <!---
