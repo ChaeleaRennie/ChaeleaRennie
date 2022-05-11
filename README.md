@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @ChaeleaRennie
-- 👀 I’m interested in growing my career in the tech industry
-- 🌱 I’m currently learning full stack web development
-- 💞️ I’m looking to collaborate on anything to help me grow!
+- 🌱 I’m a full stack web developer
+- 💞️ I’m looking to collaborate
 - 📫 How to reach me: Twitter: @ChaeleaRennie
 
 <!---
